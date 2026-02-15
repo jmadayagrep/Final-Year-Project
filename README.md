@@ -16,7 +16,7 @@ Through qualitative analysis of real-world case studies, this project demonstrat
 The goal of this project was to investigate how BI tools and GIS systems can:
 
 * Improve disaster response time
-* Optimize allocation of emergency resources
+* Optimise allocation of emergency resources
 * Support predictive decision-making before disasters occur
 * Enhance coordination between disaster agencies
 
